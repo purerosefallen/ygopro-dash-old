@@ -1,0 +1,13 @@
+{
+	"enabled": true,
+	"port": 2227,
+	"password": "11111111",
+	"git_db_path": "../ygopro/serverbuild/",
+	"db_path": "../ygopro/serverbuild/",
+	"ocg_git_db_path": "/home/ygo7210/ygopro/serverbuild/",
+	"ocg_db_path": "/home/ygo7210/ygopro/serverbuild/",
+	"ygopro_path": "../ygopro/",
+	"pm2_name": "222",
+	"enable_compile": true,
+	"enable_command": true
+}
